@@ -17,6 +17,7 @@ This repository is public and free to use.
 
 | Plugin | What it does |
 |---|---|
+| `hackathon-project-pitch` | Stress-test a hackathon idea with forcing questions and produce a five-minute, six-slide sponsor-approval pitch — `overview.md`, `presentation.html`/`.pdf`, and `qanda.md`. |
 | `prd-from-pitch` | Turn a project pitch or feature idea into a scored PRD and Dave Farley-style user story files with pass/no-pass acceptance criteria. |
 | `grill-me` | Relentlessly interview you about a plan or design until you reach shared understanding, resolving each branch of the decision tree. |
 

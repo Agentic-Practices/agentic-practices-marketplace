@@ -7,6 +7,11 @@
   "description": "Public Claude Code skills and plugins from the Agentic Practices training programmes — pressure-test ideas and turn pitches into PRDs.",
   "plugins": [
     {
+      "name": "hackathon-project-pitch",
+      "source": "./plugins/hackathon-project-pitch",
+      "description": "Stress-test a hackathon idea with forcing questions and produce a five-minute, six-slide sponsor-approval pitch — overview.md, presentation.html/pdf, and qanda.md."
+    },
+    {
       "name": "prd-from-pitch",
       "source": "./plugins/prd-from-pitch",
       "description": "Turn a project pitch or feature idea into a scored PRD and Dave Farley-style user story files with pass/no-pass acceptance criteria."

@@ -1,0 +1,6 @@
+{
+  "name": "hackathon-project-pitch",
+  "version": "0.1.0",
+  "description": "Curate, stress-test, and prepare a five-minute, six-slide sponsor pitch for a hackathon project idea — forcing questions, a gate, and overview.md, presentation.html/pdf, and qanda.md for sponsor approval.",
+  "author": { "name": "Stephan Swart" }
+}
