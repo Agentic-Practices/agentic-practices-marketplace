@@ -1,0 +1,20 @@
+{
+  "name": "agentic-practices-marketplace",
+  "owner": {
+    "name": "Agentic Practices",
+    "email": "hello@agenticpractices.com"
+  },
+  "description": "Public Claude Code skills and plugins from the Agentic Practices training programmes — pressure-test ideas and turn pitches into PRDs.",
+  "plugins": [
+    {
+      "name": "prd-from-pitch",
+      "source": "./plugins/prd-from-pitch",
+      "description": "Turn a project pitch or feature idea into a scored PRD and Dave Farley-style user story files with pass/no-pass acceptance criteria."
+    },
+    {
+      "name": "grill-me",
+      "source": "./plugins/grill-me",
+      "description": "Relentlessly interview the user about a plan or design until reaching shared understanding, resolving each branch of the decision tree."
+    }
+  ]
+}

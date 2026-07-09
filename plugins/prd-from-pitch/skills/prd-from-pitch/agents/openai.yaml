@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD From Pitch"
+  short_description: "Turn pitch overview into a scored PRD"
+  default_prompt: "Use $prd-from-pitch to turn this pitch overview or feature idea into a scored PRD and priority story files."

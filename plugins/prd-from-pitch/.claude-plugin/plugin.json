@@ -1,0 +1,8 @@
+{
+  "name": "prd-from-pitch",
+  "version": "0.1.0",
+  "description": "Turn a hackathon pitch overview or feature idea into a scored Product Requirements Document and a set of Dave Farley-style user story files with pass/no-pass acceptance criteria.",
+  "author": {
+    "name": "Stephan Swart"
+  }
+}
