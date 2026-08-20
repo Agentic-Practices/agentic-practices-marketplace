@@ -4,7 +4,7 @@ Public Claude Code skill and plugin marketplace from the **Agentic Practices** t
 
 ## What this is
 
-A public, version-controlled catalogue of Claude Code skills and plugins developed for the Agentic Practices training programmes. Anyone can add this marketplace to their Claude Code configuration and install the skills that fit their work — pressure-testing an idea, or turning a pitch into a PRD.
+A public, version-controlled catalogue of Claude Code skills and plugins developed for the Agentic Practices training programmes. Anyone can add this marketplace to their Claude Code configuration and install the skills that fit their work — auditing project context, pressure-testing an idea, or turning a pitch into a PRD.
 
 This repository is public and free to use.
 
@@ -19,7 +19,8 @@ This repository is public and free to use.
 |---|---|
 | `hackathon-project-pitch` | Stress-test a hackathon idea with forcing questions and produce a five-minute, six-slide sponsor-approval pitch — `overview.md`, `presentation.html`/`.pdf`, and `qanda.md`. |
 | `prd-from-pitch` | Turn a project pitch or feature idea into a scored PRD and Dave Farley-style user story files with pass/no-pass acceptance criteria. |
-| `grill-me` | Relentlessly interview you about a plan or design until you reach shared understanding, resolving each branch of the decision tree. |
+| `claude-md-auditor` | Score a complete `CLAUDE.md` setup, identify stale or misplaced context, and offer explicitly approved improvements. |
+| `setup-statusline` | Adapt a reference context-window statusline to your operating system and wire it into your Claude Code settings — run `/setupstatusline`. |
 
 ## Using the marketplace
 

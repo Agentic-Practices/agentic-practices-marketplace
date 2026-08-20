@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLAUDE.md Auditor"
+  short_description: "Audit project context for scope, relevance, and maintainability"
+  default_prompt: "Audit this project’s CLAUDE.md setup and recommend where each instruction should live."

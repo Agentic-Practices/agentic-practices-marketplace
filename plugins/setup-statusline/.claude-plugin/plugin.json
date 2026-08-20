@@ -1,0 +1,6 @@
+{
+  "name": "setup-statusline",
+  "version": "0.1.0",
+  "description": "Adapt a reference context-window statusline to your operating system and wire it into your Claude Code settings via /setupstatusline.",
+  "author": { "name": "Stephan Swart" }
+}

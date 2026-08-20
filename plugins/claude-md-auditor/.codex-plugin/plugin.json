@@ -1,0 +1,18 @@
+{
+  "name": "claude-md-auditor",
+  "version": "0.1.0",
+  "description": "Audit CLAUDE.md setups for context quality, scope, currency, hierarchy, deterministic enforcement, and maintainability, then offer explicitly approved improvements.",
+  "author": {
+    "name": "Stephan Swart"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Claude Md Auditor",
+    "shortDescription": "Audit and improve CLAUDE.md context setups.",
+    "longDescription": "Scores project context, finds stale or misplaced guidance, and proposes explicitly approved improvements.",
+    "developerName": "Stephan Swart",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Audit this project's CLAUDE.md setup and recommend where each instruction should live."
+  }
+}

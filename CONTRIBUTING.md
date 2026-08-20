@@ -66,7 +66,7 @@ Optional supporting files (`reference.md`, `scripts/`, assets) sit alongside `SK
 ## Naming
 
 - Plugin and skill directory names: kebab-case.
-- Plugin names should signal the audience or domain (e.g. `prd-from-pitch`, `grill-me`).
+- Plugin names should signal the audience or domain (e.g. `prd-from-pitch`, `claude-md-auditor`).
 
 ## Keep skills generic
 

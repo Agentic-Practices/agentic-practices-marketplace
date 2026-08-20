@@ -1,0 +1,8 @@
+{
+  "name": "claude-md-auditor",
+  "version": "0.1.0",
+  "description": "Audit CLAUDE.md setups for context quality, scope, currency, hierarchy, deterministic enforcement, and maintainability, then offer explicitly approved improvements.",
+  "author": {
+    "name": "Stephan Swart"
+  }
+}

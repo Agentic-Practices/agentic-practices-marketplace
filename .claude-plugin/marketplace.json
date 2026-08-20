@@ -4,7 +4,7 @@
     "name": "Agentic Practices",
     "email": "hello@agenticpractices.com"
   },
-  "description": "Public Claude Code skills and plugins from the Agentic Practices training programmes — pressure-test ideas and turn pitches into PRDs.",
+  "description": "Public Claude Code skills and plugins from the Agentic Practices training programmes — audit context, pressure-test ideas, and turn pitches into PRDs.",
   "plugins": [
     {
       "name": "hackathon-project-pitch",
@@ -17,9 +17,14 @@
       "description": "Turn a project pitch or feature idea into a scored PRD and Dave Farley-style user story files with pass/no-pass acceptance criteria."
     },
     {
-      "name": "grill-me",
-      "source": "./plugins/grill-me",
-      "description": "Relentlessly interview the user about a plan or design until reaching shared understanding, resolving each branch of the decision tree."
+      "name": "claude-md-auditor",
+      "source": "./plugins/claude-md-auditor",
+      "description": "Audit CLAUDE.md setups for context quality, scope, currency, hierarchy, deterministic enforcement, and maintainability, then offer explicitly approved improvements."
+    },
+    {
+      "name": "setup-statusline",
+      "source": "./plugins/setup-statusline",
+      "description": "Adapt a reference context-window statusline to your OS and wire it into your Claude Code settings via /setupstatusline."
     }
   ]
 }

@@ -1,8 +1,0 @@
-{
-  "name": "grill-me",
-  "version": "0.1.0",
-  "description": "Relentlessly interview the user about a plan or design until reaching shared understanding, resolving each branch of the decision tree.",
-  "author": {
-    "name": "Stephan Swart"
-  }
-}

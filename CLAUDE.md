@@ -25,7 +25,8 @@ Group skills by domain, not by author or by date added. Current groupings:
 | Plugin | Skills | Purpose |
 |---|---|---|
 | `prd-from-pitch` | prd-from-pitch | Turn a pitch or feature idea into a scored PRD and story files |
-| `grill-me` | grill-me | Pressure-test a plan or design through relentless interviewing |
+| `claude-md-auditor` | claude-md-auditor | Audit project context placement, currency, hierarchy, and enforcement |
+| `setup-statusline` | — (ships `/setupstatusline` command) | Adapt a reference statusline to the user's OS and wire it into their settings |
 
 When adding a new skill, place it in an existing plugin if the domain fits. Spin up a new plugin only when the domain is genuinely distinct.
 
