@@ -1,0 +1,56 @@
+{
+  "skill": "flowmap-artifact",
+  "python": {
+    "minimum": "3.9"
+  },
+  "files": {
+    "SKILL.md": {
+      "bytes": 10459,
+      "sha256": "be8db3291671a4278a7a67c17527cfea836b2d7cc912a60159f9c3a1c9631938"
+    },
+    "assets/flowmap-app.html": {
+      "bytes": 500948,
+      "sha256": "d8bb958c730183d78c8af2c49ddfc96a835303a435d6923a13d2e109f6091aa5"
+    },
+    "assets/flowmap-source.html": {
+      "bytes": 396530,
+      "sha256": "98d95f9046ffd0b0081367fa720f9e59d18e20ac96e47d633616233644b2252e"
+    },
+    "references/artifact-contract.md": {
+      "bytes": 5478,
+      "sha256": "50b42f382b3b11bbeb5232e90eb22c3659ab302fb497a0ee0a0a255926a593a2"
+    },
+    "references/authoring.md": {
+      "bytes": 4568,
+      "sha256": "8b27b745088be294830ca40b49f13465de48f314002e02a702b296099726c86a"
+    },
+    "references/schema.md": {
+      "bytes": 4265,
+      "sha256": "be84098250371c90cd876643988dfcaacb47a9a40cb2a51b7ba77601c527d021"
+    },
+    "scripts/build_app_asset.py": {
+      "bytes": 20702,
+      "sha256": "97caa85ee8f1ce82158875eb0ca2d22fea74df2bd58f692896b0f255ef6b8f6f"
+    },
+    "scripts/build_flowmap_artifact.py": {
+      "bytes": 6239,
+      "sha256": "3ab8964f1765c043fb169dfc1cdcd630388e632bc3737b020fbb9ff1dfab0c9c"
+    },
+    "scripts/layout_flowmap.py": {
+      "bytes": 14529,
+      "sha256": "f908b937e449b311fdb186e3f38b876e5cc1ffeab98be927db20200613418451"
+    },
+    "scripts/preflight.py": {
+      "bytes": 11291,
+      "sha256": "6a31fb67ad5effbd965c9803c1aba826d07360e25a213e44e0ebf868c9d8d366"
+    },
+    "scripts/preflight.sh": {
+      "bytes": 2801,
+      "sha256": "a1a6980399998fbf93b83bde636eba77689c97baa82e74533d061c46d8b35b21"
+    },
+    "scripts/validate_flowmap.py": {
+      "bytes": 11152,
+      "sha256": "f70bb577c4c305a443cb029a365cdc00ba75f38d412204bd136b14a4d239c4d1"
+    }
+  }
+}

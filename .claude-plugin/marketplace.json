@@ -25,6 +25,11 @@
       "name": "setup-statusline",
       "source": "./plugins/setup-statusline",
       "description": "Adapt a reference context-window statusline to your OS and wire it into your Claude Code settings via /setupstatusline."
+    },
+    {
+      "name": "flowmap",
+      "source": "./plugins/flowmap",
+      "description": "Map a plan, architecture or roadmap as an interactive dependency graph — nodes, prerequisites, groups and todos — published as a live, editable Claude Artifact."
     }
   ]
 }

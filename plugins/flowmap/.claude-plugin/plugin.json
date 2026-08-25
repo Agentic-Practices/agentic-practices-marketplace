@@ -1,0 +1,6 @@
+{
+  "name": "flowmap",
+  "version": "0.1.0",
+  "description": "Turn a plan, architecture, roadmap or learning path into an interactive Flowmap — a dependency-gated graph of nodes, groups and checkable todos — published as a live Claude Artifact with the map already loaded and editable in the browser.",
+  "author": { "name": "Stephan Swart" }
+}
